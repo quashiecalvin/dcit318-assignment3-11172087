@@ -1,0 +1,14 @@
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/bin/Debug/net9.0/FinanceApp
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/bin/Debug/net9.0/FinanceApp.deps.json
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/bin/Debug/net9.0/FinanceApp.runtimeconfig.json
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/bin/Debug/net9.0/FinanceApp.dll
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/bin/Debug/net9.0/FinanceApp.pdb
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/obj/Debug/net9.0/FinanceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/obj/Debug/net9.0/FinanceApp.AssemblyInfoInputs.cache
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/obj/Debug/net9.0/FinanceApp.AssemblyInfo.cs
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/obj/Debug/net9.0/FinanceApp.csproj.CoreCompileInputs.cache
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/obj/Debug/net9.0/FinanceApp.dll
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/obj/Debug/net9.0/refint/FinanceApp.dll
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/obj/Debug/net9.0/FinanceApp.pdb
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/obj/Debug/net9.0/FinanceApp.genruntimeconfig.cache
+/Users/kayhunter/dcit318-assignment3-11172087/FinanceApp/obj/Debug/net9.0/ref/FinanceApp.dll
