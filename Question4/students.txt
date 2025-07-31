@@ -1,0 +1,7 @@
+101,Belinda Ewusi,84
+102,Paul Ammah,75
+103,Nelson Soh,65
+104,David Asare,52
+105,George Adase,43
+106,Charles Kyeremeh,60
+107,Felix Nyarko,70
