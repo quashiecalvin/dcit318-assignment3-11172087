@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "iPhone 16 Pro",
+    "Quantity": 10,
+    "DateAdded": "2025-07-31T14:52:08.235185+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "iPad Air",
+    "Quantity": 5,
+    "DateAdded": "2025-07-31T14:52:08.253018+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "AirPods Pro",
+    "Quantity": 25,
+    "DateAdded": "2025-07-31T14:52:08.253019+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Apple Watch",
+    "Quantity": 15,
+    "DateAdded": "2025-07-31T14:52:08.253019+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Macbook Air",
+    "Quantity": 40,
+    "DateAdded": "2025-07-31T14:52:08.25302+00:00"
+  }
+]

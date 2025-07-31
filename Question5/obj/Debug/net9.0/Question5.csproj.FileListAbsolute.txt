@@ -1,0 +1,14 @@
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/bin/Debug/net9.0/Question5
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/bin/Debug/net9.0/Question5.deps.json
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/bin/Debug/net9.0/Question5.runtimeconfig.json
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/bin/Debug/net9.0/Question5.dll
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/bin/Debug/net9.0/Question5.pdb
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/obj/Debug/net9.0/Question5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/obj/Debug/net9.0/Question5.AssemblyInfoInputs.cache
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/obj/Debug/net9.0/Question5.AssemblyInfo.cs
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/obj/Debug/net9.0/Question5.csproj.CoreCompileInputs.cache
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/obj/Debug/net9.0/Question5.dll
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/obj/Debug/net9.0/refint/Question5.dll
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/obj/Debug/net9.0/Question5.pdb
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/obj/Debug/net9.0/Question5.genruntimeconfig.cache
+/Users/kayhunter/dcit318-assignment3-11172087/Question5/obj/Debug/net9.0/ref/Question5.dll
